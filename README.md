@@ -64,17 +64,20 @@ You may be interested in:
 
 **Gowri Shankara Narayanan A**
 Second Year EEE Student, SSN College of Engineering
+
 GitHub: [GowriShankar-07](https://github.com/GowriShankar-07)  
 
 **Aswin Kumar**
+
 Second Year EEE Student, SSN College of Engineering
 
 **Deepak Sakthivel**
+
 Second Year EEE Student, SSN College of Engineering
 
 **Job Zion**
-Second Year ECE Student, SSN College of Engineering
 
+Second Year ECE Student, SSN College of Engineering
 
 Project Year: 2025
 
