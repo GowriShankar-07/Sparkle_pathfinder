@@ -60,12 +60,25 @@ You may be interested in:
 
 ---
 
-##  Author
+##  Team members
 
-**Aswin Kumar A**
+**Gowri Shankara Narayanan A**
 Second Year EEE Student, SSN College of Engineering
-GitHub: [aswin0904](https://github.com/aswin0904)  
+GitHub: [GowriShankar-07](https://github.com/GowriShankar-07)  
+
+**Aswin Kumar**
+Second Year EEE Student, SSN College of Engineering
+
+**Deepak Sakthivel**
+Second Year EEE Student, SSN College of Engineering
+
+**Job Zion**
+Second Year ECE Student, SSN College of Engineering
+
+
 Project Year: 2025
+
+
 
 ---
 
